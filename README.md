@@ -1,4 +1,4 @@
-- 👋 Hey, I'm a newbie to software development; started studying last year in June!
+- 👋 Hey, I'm a not-too-shabby Software Developer! I'm still a student but on the verge of entering the real world.
 - 👀 I'm interested in finding out more about the developer community, what it's like being a developer,
 - 🌱 best practices to keep a healthy balanced life as a developer, and just the overall lifestyle really.
 - 💞️ I'd like to immerse myself in the field more and really dive into the mind-set.
